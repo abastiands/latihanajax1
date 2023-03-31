@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    margin: 25px auto;
+    text-align: center;
+}
+
+.btn-submit {
+    background-color: #fed78f;
+    padding: 10px 20px;
+    border: 3px solid #ffd22f;
+    border-radius: 10px;
+}
+
+.content {
+    background-color: #ffd16d;
+    border: 3px solid #cb9634;
+    border-radius: 10px;
+    width: fit-content;
+    margin: 50px auto;
+    padding: 25px;
+    display: none;
+}
+
+.content-image {
+    height: 300px;
+}
+
+.content-image img {
+    height: 100%;
+}
